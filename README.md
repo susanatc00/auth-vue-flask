@@ -121,3 +121,4 @@ Implementar despliegue (Heroku o Vercel)
 
 Este proyecto es de uso académico y libre para aprendizaje.
 © 2025 Susana Toro C.
+Actualizado por Susana Toro C. el 4 de octubre de 2025
